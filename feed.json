@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Sampler",
+    "description": "",
+    "home_page_url": "https://lpikora.github.io/sampler-web",
+    "feed_url": "https://lpikora.github.io/sampler-web/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "SedrickDeniken"
+    },
+    "items": [
+    ]
+}

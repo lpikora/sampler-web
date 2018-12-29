@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Sampler</title>
+    <link href="https://lpikora.github.io/sampler-web/feed.xml" rel="self" />
+    <link href="https://lpikora.github.io/sampler-web" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
+    <author>
+        <name>SedrickDeniken</name>
+    </author>
+    <id>https://lpikora.github.io/sampler-web</id>
+
+</feed>
